@@ -1,9 +1,13 @@
 # Student Information
 
 Name: Tanisha Adhikari
+
 Registration Number:25BAI10535 
+
 Branch: CSE(AL&ML)
+
 Year: 1st Year
+
 Course: CSE0001 - Digital Literacy
 
 # Repository Structure
